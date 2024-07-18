@@ -1,0 +1,40 @@
+Ticket machine created with initial paper level: 5, initial toner level: 15, and initial no. of tickets printed: 3.
+Have Toner, No need to replace the toner, Current toner Level is : 15
+Ticket Paper Technician refilled the paper. Current paper level is : 10 sheets
+Ticket printed by : Passenger 1 | Ticket: Ticket ID: 1, Ticket Name: John Doe, Ticket Price: 321, Ticket Travel Info: startingPoint: Location_6 destination: Location_10, date: 01/01/2022, time: 01/02/2022
+Ticket printed by : Passenger 3 | Ticket: Ticket ID: 1, Ticket Name: John Smith, Ticket Price: 485, Ticket Travel Info: startingPoint: Location_5 destination: Location_3, date: 01/01/2022, time: 01/02/2022
+Ticket printed by : Passenger 2 | Ticket: Ticket ID: 1, Ticket Name: Jane Doe, Ticket Price: 591, Ticket Travel Info: startingPoint: Location_4 destination: Location_8, date: 01/01/2022, time: 01/02/2022
+Ticket printed by : Passenger 4 | Ticket: Ticket ID: 1, Ticket Name: Jane Smith, Ticket Price: 665, Ticket Travel Info: startingPoint: Location_6 destination: Location_8, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 11
+Ticket printed by : Passenger 1 | Ticket: Ticket ID: 2, Ticket Name: John Doe, Ticket Price: 603, Ticket Travel Info: startingPoint: Location_7 destination: Location_7, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 10
+Ticket Paper Technician refilled the paper. Current paper level is : 10 sheets
+Ticket printed by : Passenger 2 | Ticket: Ticket ID: 2, Ticket Name: Jane Doe, Ticket Price: 631, Ticket Travel Info: startingPoint: Location_6 destination: Location_8, date: 01/01/2022, time: 01/02/2022
+Ticket Toner Technician replaced the toner cartridge. Toner level reset to : 15
+Ticket printed by : Passenger 1 | Ticket: Ticket ID: 3, Ticket Name: John Doe, Ticket Price: 953, Ticket Travel Info: startingPoint: Location_5 destination: Location_4, date: 01/01/2022, time: 01/02/2022
+Ticket printed by : Passenger 3 | Ticket: Ticket ID: 2, Ticket Name: John Smith, Ticket Price: 830, Ticket Travel Info: startingPoint: Location_4 destination: Location_6, date: 01/01/2022, time: 01/02/2022
+Ticket printed by : Passenger 4 | Ticket: Ticket ID: 2, Ticket Name: Jane Smith, Ticket Price: 678, Ticket Travel Info: startingPoint: Location_8 destination: Location_4, date: 01/01/2022, time: 01/02/2022
+Ticket Paper Technician refilled the paper. Current paper level is : 11 sheets
+Ticket printed by : Passenger 1 | Ticket: Ticket ID: 4, Ticket Name: John Doe, Ticket Price: 164, Ticket Travel Info: startingPoint: Location_5 destination: Location_6, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 11
+Ticket printed by : Passenger 3 | Ticket: Ticket ID: 3, Ticket Name: John Smith, Ticket Price: 1089, Ticket Travel Info: startingPoint: Location_7 destination: Location_2, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 10
+Ticket printed by : Passenger 2 | Ticket: Ticket ID: 3, Ticket Name: Jane Doe, Ticket Price: 1073, Ticket Travel Info: startingPoint: Location_2 destination: Location_7, date: 01/01/2022, time: 01/02/2022
+Ticket Toner Technician replaced the toner cartridge. Toner level reset to : 15
+Ticket printed by : Passenger 3 | Ticket: Ticket ID: 4, Ticket Name: John Smith, Ticket Price: 780, Ticket Travel Info: startingPoint: Location_10 destination: Location_3, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 14
+Ticket printed by : Passenger 1 | Ticket: Ticket ID: 5, Ticket Name: John Doe, Ticket Price: 1084, Ticket Travel Info: startingPoint: Location_3 destination: Location_4, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 13
+Ticket printed by : Passenger 4 | Ticket: Ticket ID: 3, Ticket Name: Jane Smith, Ticket Price: 625, Ticket Travel Info: startingPoint: Location_7 destination: Location_1, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 12
+Ticket printed by : Passenger 2 | Ticket: Ticket ID: 4, Ticket Name: Jane Doe, Ticket Price: 676, Ticket Travel Info: startingPoint: Location_3 destination: Location_7, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 11
+Ticket printed by : Passenger 2 | Ticket: Ticket ID: 5, Ticket Name: Jane Doe, Ticket Price: 632, Ticket Travel Info: startingPoint: Location_6 destination: Location_4, date: 01/01/2022, time: 01/02/2022
+Have Toner, No need to replace the toner, Current toner Level is : 10
+Ticket printed by : Passenger 3 | Ticket: Ticket ID: 5, Ticket Name: John Smith, Ticket Price: 1021, Ticket Travel Info: startingPoint: Location_1 destination: Location_2, date: 01/01/2022, time: 01/02/2022
+Ticket Toner Technician replaced the toner cartridge. Toner level reset to : 15
+Ticket printed by : Passenger 4 | Ticket: Ticket ID: 4, Ticket Name: Jane Smith, Ticket Price: 505, Ticket Travel Info: startingPoint: Location_9 destination: Location_4, date: 01/01/2022, time: 01/02/2022
+Ticket printed by : Passenger 4 | Ticket: Ticket ID: 5, Ticket Name: Jane Smith, Ticket Price: 731, Ticket Travel Info: startingPoint: Location_1 destination: Location_5, date: 01/01/2022, time: 01/02/2022
+All passenger threads finished execution.
+All ticket technician threads finished execution.
+No. of tickets printed: 23.
